@@ -1,2 +1,2 @@
 # kobo-nia-model-c
-kobo nia model A - some pictures, info, inkbox porting, kernel compiling
+kobo nia model C - some pictures, info, inkbox porting, kernel compiling
